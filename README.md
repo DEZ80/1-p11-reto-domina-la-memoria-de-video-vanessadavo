@@ -38,3 +38,7 @@ Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 3](/tuimagen3.png)
 ![Actividad 4](/tuimagen4.png)
 
+
+NOTA PERSONAL PARA NO PERDER DATOS
+
+21 FF FF 22 70 CB 22 72 CB 22 74 CB 22 76 CB 22 78 CB 21 0F 0F 22 70 19 18 FE
