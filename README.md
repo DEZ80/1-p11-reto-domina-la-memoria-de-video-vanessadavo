@@ -38,3 +38,8 @@ Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 3](/tuimagen3.png)
 ![Actividad 4](/tuimagen4.png)
 
+
+
+codigo del desafío
+
+3E FF 32 96 FF 32 96 F7 21 FF FF 22 94 EF 22 94 E7 3E F0 32 96 EF 32 96 E7 21 FF FF 22 95 F7 18 FE
